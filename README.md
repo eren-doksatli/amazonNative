@@ -10,3 +10,5 @@
 -React Native Linear Gradient
 -React Native Swiper
 -React Native Vector Icons
+
+![](amazonNative.gif)
